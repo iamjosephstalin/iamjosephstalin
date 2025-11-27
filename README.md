@@ -1,4 +1,7 @@
-<!-- Header -->
+<!-- ############################################################### -->
+<!--                        HEADER SECTION                           -->
+<!-- ############################################################### -->
+
 <h1 align="center">🔥 Joseph Stalin 🔥</h1>
 <h3 align="center">Full-Stack Developer | MES + IoT Integrator | Automation Engineer</h3>
 
@@ -11,88 +14,123 @@
 
 ---
 
+<!-- ############################################################### -->
+<!--                        ABOUT SECTION                            -->
+<!-- ############################################################### -->
+
 ## ⚡ About Me
 
-- 🔧 **Full-Stack Developer** with strong focus on **MES**, **IoT**, **Automation**, and **Fast Backend APIs**
-- 🏭 Experience connecting real industrial devices: **OPC-UA**, **Modbus**, **MQTT**, **BLE**, **RFID**
-- ☁️ Skilled in **Node.js, PHP, Python, React, Next.js, Odoo, Laravel**
-- 🚀 Building scalable tools for **smart factories** and **modern SaaS platforms**
+- 🧑‍💻 Full-Stack Engineer with strong focus on **MES**, **IoT**, **Automation**, and **SaaS platforms**
+- 🔌 Experience integrating industrial protocols: **OPC-UA, Modbus, MQTT, BLE, CAN, RFID**
+- 🚀 Technologies: **PHP, Node.js, Python, React, Next.js, Laravel, Odoo**
+- 🏗 Builder of scalable cloud systems using **Vercel, Docker, Cloudflare**
 - 🌍 Portfolio: **https://josephstalin.vercel.app/**
+- 💡 I engineer systems that connect **shop floors → cloud → dashboards**
 
 ---
 
-# 🛠️ Tech Stack
+<!-- ############################################################### -->
+<!--                        TECH STACK                               -->
+<!-- ############################################################### -->
 
-### 💻 Languages
+## 🛠️ Tech Stack
+
+### 💻 Languages  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript)
 
-### 🧩 Frameworks & Libraries
+### 🧩 Frameworks  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
 ![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
 
-### 🏭 Automation / MES / ERP
+### 🏭 Industrial / ERP  
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo)
 ![IoT](https://img.shields.io/badge/IoT-00A3E0?style=for-the-badge)
 ![MES](https://img.shields.io/badge/MES-2C3E50?style=for-the-badge)
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud / DevOps  
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare)
 
 ---
 
-# 🏆 GitHub Trophies
+<!-- ############################################################### -->
+<!--                        GitHub TROPHIES                          -->
+<!-- ############################################################### -->
+
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamjosephstalin&theme=tokyonight&margin-w=8&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=iamjosephstalin&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-# 📊 GitHub Metrics (Auto-Refresh)
-> These cards auto-update daily.
+<!-- ############################################################### -->
+<!--                        CONTRIBUTION GRAPH                       -->
+<!-- ############################################################### -->
 
-### ⭐ Stats & Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamjosephstalin&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjosephstalin&layout=compact&theme=tokyonight&hide_border=true" height="170">
-</p>
+## 📈 Activity Graph
 
-### 🔥 Contribution Streak  
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=iamjosephstalin&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak"
-  />
-</p>
-
-### 📈 Activity Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamjosephstalin&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-# 🔮 GitHub Widgets
+<!-- ############################################################### -->
+<!--                        STREAK STATS                             -->
+<!-- ############################################################### -->
 
-### 🧡 Contributions Calendar  
+## 🔥 Contribution Streak
+
 <p align="center">
-  <img src="https://github.com/iamjosephstalin/iamjosephstalin/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://streak-stats.demolab.com?user=iamjosephstalin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-### 📦 Repositories Overview  
+---
+
+<!-- ############################################################### -->
+<!--                        GITHUB STATS                             -->
+<!-- ############################################################### -->
+
+## 📊 GitHub Stats
 
 <p align="center">
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=iamjosephstalin&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjosephstalin&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+---
+
+<!-- ############################################################### -->
+<!--                     CONTRIBUTION SNAKE                          -->
+<!-- ############################################################### -->
+
+## 🧡 Contributions Calendar (Snake)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iamjosephstalin/iamjosephstalin/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+<!-- ############################################################### -->
+<!--                     REPOSITORY OVERVIEW                         -->
+<!-- ############################################################### -->
+
+## 📦 Repositories Overview
+
+<p align="center">
+
   <!-- Row 1 -->
   <a href="https://github.com/iamjosephstalin/vCall">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iamjosephstalin&repo=vCall&theme=tokyonight&hide_border=true" />
   </a>
-  
   <a href="https://github.com/iamjosephstalin/portfolio">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iamjosephstalin&repo=portfolio&theme=tokyonight&hide_border=true" />
   </a>
@@ -101,7 +139,6 @@
   <a href="https://github.com/iamjosephstalin/Indie-Desk">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iamjosephstalin&repo=Indie-Desk&theme=tokyonight&hide_border=true" />
   </a>
-
   <a href="https://github.com/iamjosephstalin/Reverbly">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iamjosephstalin&repo=Reverbly&theme=tokyonight&hide_border=true" />
   </a>
@@ -110,7 +147,6 @@
   <a href="https://github.com/iamjosephstalin/vtap">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iamjosephstalin&repo=vtap&theme=tokyonight&hide_border=true" />
   </a>
-
   <a href="https://github.com/iamjosephstalin/mes">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iamjosephstalin&repo=mes&theme=tokyonight&hide_border=true" />
   </a>
@@ -119,23 +155,11 @@
 
 ---
 
-# 🚀 Featured Projects
+<!-- ############################################################### -->
+<!--                     CONTACT SECTION                             -->
+<!-- ############################################################### -->
 
-### 🔸 **MES IoT Connectivity Engine**  
-Multi-protocol gateway: OPC-UA, Modbus, MQTT, CAN, BLE, RFID — all unified.
-
-### 🔸 **Fast File Upload Engine (Go + Hetzner)**  
-Parallel high-speed uploader (250MB/s).
-
-### 🔸 **AI-based RFQ Extractor**  
-Automates extraction from PDFs/Excels using OCR + LLM.
-
-### 🔸 **Odoo Automation Tools**  
-Custom modules, API integrations & workflow scripts.
-
----
-
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:mm93joe@gmail.com">
@@ -152,7 +176,6 @@ Custom modules, API integrations & workflow scripts.
 ---
 
 ## 💡 Fun Fact  
-I don't just write code —  
-**I engineer digital factories.**
+**I don't just write code — I build digital factories.**
 
-⭐ _If my work inspires you, please ⭐ star a repo — it helps a lot!_ ⭐
+⭐ If you like my work, feel free to ⭐ star a repo — it means a lot!  
