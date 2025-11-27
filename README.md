@@ -121,7 +121,7 @@
 # 💬 **Connect With Me – Links**
 
 <p align="center">
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:mm93joe@gmail.com.com">
     <img src="https://img.shields.io/badge/Email-ff006e?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://josephstalin.vercel.app/">
