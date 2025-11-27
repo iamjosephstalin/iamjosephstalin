@@ -1,5 +1,5 @@
 <!-- ============================================================ -->
-<!--                    NEON CYBERPUNK README                     -->
+<!--                    CYBERPUNK README                     -->
 <!-- ============================================================ -->
 
 <!-- Header -->
@@ -18,7 +18,7 @@
 
 ---
 
-# 🎛️ **About Me – Neon Edition**
+# 🎛️ **About Me**
 
 💠 Full-Stack Developer (PHP • Node.js • Python • React • Next.js)  
 💠 Builder of **MES systems**, IoT connectivity, OPC-UA, MQTT, BLE, Modbus  
@@ -28,7 +28,7 @@
 
 ---
 
-# 🌐 **Neon Tech Stack**
+# 🌐 **Tech Stack**
 
 ### ⚡ Languages  
 ![PHP](https://img.shields.io/badge/PHP-6700ff?style=for-the-badge&logo=php&logoColor=white)
@@ -53,7 +53,7 @@
 
 ---
 
-# 🏆 **Neon Trophies**
+# 🏆 **Trophies**
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=iamjosephstalin&theme=algolia&no-frame=true&margin-w=10" />
@@ -61,7 +61,7 @@
 
 ---
 
-# 📊 **Neon Stats**
+# 📊 **Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iamjosephstalin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" height="170"/>
@@ -70,7 +70,7 @@
 
 ---
 
-# 🔥 **Neon Contribution Streak**
+# 🔥 **Contribution Streak**
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=iamjosephstalin&theme=tokyonight&hide_border=true&background=000000" />
@@ -78,7 +78,7 @@
 
 ---
 
-# 🛰️ **Neon Activity Graph**
+# 🛰️ **Activity Graph**
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamjosephstalin&theme=tokyo-night&hide_border=true&bg_color=000000" />
@@ -86,15 +86,7 @@
 
 ---
 
-# 🐍 **Neon Contribution Snake**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iamjosephstalin/iamjosephstalin/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-# 📦 **Neon Repositories Showcase**
+# 📦 **Repositories Showcase**
 
 <p align="center">
 
@@ -126,7 +118,7 @@
 
 ---
 
-# 💬 **Connect With Me – Neon Links**
+# 💬 **Connect With Me – Links**
 
 <p align="center">
   <a href="mailto:youremail@example.com">
@@ -142,5 +134,5 @@
 
 ---
 
-# 🎯 **Fun Fact (Cyberpunk Version)**  
+# 🎯 **Fun Fact**  
 ✨ *“I don't just write code— I prototype the future.”*  
