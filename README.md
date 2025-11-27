@@ -135,7 +135,7 @@ Custom modules, API integrations & workflow scripts.
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:yourmail@example.com">
+  <a href="mailto:mm93joe@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://josephstalin.vercel.app">
