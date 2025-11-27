@@ -82,12 +82,38 @@
 </p>
 
 ### 📦 Repositories Overview  
+
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/pin/?username=iamjosephstalin&repo=portfolio&theme=tokyonight&hide_border=true"></a>
+  
+  <!-- Row 1 -->
+  <a href="https://github.com/iamjosephstalin/vCall">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iamjosephstalin&repo=vCall&theme=tokyonight&hide_border=true" />
+  </a>
+  
+  <a href="https://github.com/iamjosephstalin/portfolio">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iamjosephstalin&repo=portfolio&theme=tokyonight&hide_border=true" />
+  </a>
+
+  <!-- Row 2 -->
+  <a href="https://github.com/iamjosephstalin/Indie-Desk">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iamjosephstalin&repo=Indie-Desk&theme=tokyonight&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/iamjosephstalin/Reverbly">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iamjosephstalin&repo=Reverbly&theme=tokyonight&hide_border=true" />
+  </a>
+
+  <!-- Row 3 -->
+  <a href="https://github.com/iamjosephstalin/vtap">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iamjosephstalin&repo=vtap&theme=tokyonight&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/iamjosephstalin/mes">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iamjosephstalin&repo=mes&theme=tokyonight&hide_border=true" />
+  </a>
+
 </p>
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/pin/?username=iamjosephstalin&repo=vCall&theme=tokyonight&hide_border=true"></a>
-</p>
+
 ---
 
 # 🚀 Featured Projects
