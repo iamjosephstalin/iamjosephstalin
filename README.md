@@ -8,7 +8,7 @@
 </h1>
 
 <h3 align="center" style="color:#ff00f7;">
-  Full-Stack Developer • MES Engineer • IoT Integrator
+  Full-Stack Developer • Forward Deployed Engineer • AI Integrator
 </h3>
 
 <p align="center">
